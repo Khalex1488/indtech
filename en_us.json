@@ -1,0 +1,10 @@
+{
+  "itemGroup.indtech.main": "Industrial Tech",
+  "block.indtech.tin_ore": "Tin Ore",
+  "block.indtech.generator": "Generator",
+  "block.indtech.electric_furnace": "Electric Furnace",
+  "block.indtech.cable": "Copper Cable",
+  "item.indtech.raw_tin": "Raw Tin",
+  "item.indtech.tin_ingot": "Tin Ingot",
+  "item.indtech.bronze_ingot": "Bronze Ingot"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": {
+    "item": "indtech:tin_ore"
+  },
+  "result": {
+    "id": "indtech:tin_ingot"
+  },
+  "experience": 0.7,
+  "cookingtime": 200
+}

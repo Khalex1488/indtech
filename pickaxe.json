@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "indtech:tin_ore",
+    "indtech:generator",
+    "indtech:electric_furnace",
+    "indtech:cable"
+  ]
+}

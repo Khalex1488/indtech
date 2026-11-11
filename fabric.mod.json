@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "indtech",
+  "version": "${version}",
+  "name": "Industrial Tech",
+  "description": "IC2-style electricity for Fabric: tin ore, generator, cables and an electric furnace.",
+  "authors": [
+    "You"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.indtech.IndTech"
+    ],
+    "client": [
+      "net.indtech.IndTechClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

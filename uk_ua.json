@@ -1,0 +1,10 @@
+{
+  "itemGroup.indtech.main": "Індустріальні технології",
+  "block.indtech.tin_ore": "Олов'яна руда",
+  "block.indtech.generator": "Генератор",
+  "block.indtech.electric_furnace": "Електропіч",
+  "block.indtech.cable": "Кабель",
+  "item.indtech.raw_tin": "Сире олово",
+  "item.indtech.tin_ingot": "Олов'яний злиток",
+  "item.indtech.bronze_ingot": "Бронзовий злиток"
+}
